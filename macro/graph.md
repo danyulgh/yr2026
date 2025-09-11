@@ -1,0 +1,26 @@
+- **Demand** refers to the desire and ability to purchase goods and services  
+	- **The Law of Demand** describes the relationship between the quantity of goods and services that are demanded and the price  
+	- There is an inverse relationship between supply and demand  
+- There are five main **determinants of demand**:  
+	- Change in availability of related goods or services  
+	- Change in disposable income  
+	- Change in tastes or preferences  
+	- Change in Expectations About the Future  
+	- Change in Number of Buyers in the Market  
+- Other factors exist but are typically only short term  
+- **Supply** refers to the amount of a good or service that the provider is willing to sell at a given price  
+	- The **law of supply** states that when all other factors are equal, there is a positive relationship between price and quantity supplied  
+- **Determinants of supply**  
+	- Change in price of related goods or services  
+	- Change in technology  
+	- Change in price of resources  
+	- Change in number of producers  
+	- Change in expectations  
+- A table showing the relationship between the price of a good or service and the quantity supplied when all other determinants are equal is called a **supply schedule**  
+- The **supply curve** graphs quantity on x axis against the price  
+	- Supply is elastic if a change in price leads to a substantial change in quantity  
+	- Supply is inelastic otherwise  
+- The **equilibrium price** is the price where the good hovers typically, balancing cost of production, demand, and supply  
+	- The equilibrium occurs when the price against demand and price against supply are equal in a price vs quantity graph  
+- A **surplus** is when there are too many goods  
+- A **shortage** is when there are too little goods
